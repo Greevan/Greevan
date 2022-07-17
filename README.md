@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Greevan
-- 👀 I’m interested in Developing android application and Operating Systems.
+- 👀 I’m interested in Developing Android Application and Operating Systems.
 - 🌱 I’m currently learning Java and Kotlin.
 - 💞️ I’m looking to collaborate on <UNDER_PROCESS>
 - 📫 Contact me through Telegram: @Dhasagreevan_dhanush
